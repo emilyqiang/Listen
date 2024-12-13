@@ -436,6 +436,17 @@ HEADING + PARAGRAPH SECTION
     margin: 0 auto; /* Optional: Centers the container on the page */
 }
 
+.image2-container { 
+    display: flex;
+    margin: 0 auto;
+    max-width: 100%
+}
+.image2-container img {
+    width: 100%; /* Adjust the width as needed */
+    height: auto; /* Maintain the image aspect ratio */
+    border: 1px, solid, black;
+}
+
 .image-container img {
     width: 33%; /* Adjust the width as needed */
     height: auto; /* Maintain the image aspect ratio */
