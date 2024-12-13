@@ -539,7 +539,7 @@ CTA SECTION
     transition: all .4s ease;
 }
 .cta_section .cta_button:hover {
-    background-color: black;
+    background-color: grey;
 }
 /*****************************************************
 FOOTER
